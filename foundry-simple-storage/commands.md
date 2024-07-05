@@ -21,3 +21,17 @@ cast send 0x8464135c8F25Da09e49BC8782676a84730C318bC "store(uint256)" 123 --rpc-
 ```bash
 cast call 0x8464135c8F25Da09e49BC8782676a84730C318bC "retrieve()"
 ```
+
+# Foundry
+
+## Use vanilla foundry
+
+    ```bash
+    foundryup
+    ```
+
+## Use foundry zksync
+
+     ```bash
+    foundryup-zksync
+    ```
